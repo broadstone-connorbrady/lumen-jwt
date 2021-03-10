@@ -2,7 +2,7 @@
     "name": "gboyegadada/lumen-jwt",
     "description": "JWT auth guard for Lumen 5.4",
     "require": {
-        "firebase/php-jwt": "^4.0"
+        "firebase/php-jwt": "^5.2"
     },
     "license": "MIT",
     "autoload": {
